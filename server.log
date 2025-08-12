@@ -1,0 +1,50 @@
+[2025-08-12 01:28:28:975 INFO] Build ID: 35767061
+[2025-08-12 01:28:28:975 INFO] Branch: hotfix_21_u10
+[2025-08-12 01:28:28:975 INFO] Commit ID: 98aaa32f94e0440ba67be562ccf07fefefbac0d9
+[2025-08-12 01:28:28:975 INFO] Configuration: Publish
+[2025-08-12 01:28:28:984 INFO] Level Name: Bedrock level
+[2025-08-12 01:28:28:995 INFO] No CDN config file found for dedicated server
+[2025-08-12 01:28:28:995 INFO] Game mode: 0 Survival
+[2025-08-12 01:28:28:996 INFO] Difficulty: 2 NORMAL
+[2025-08-12 01:28:29:011 INFO] Content logging to console is enabled.
+[2025-08-12 01:28:30:049 INFO] Opening level 'worlds/Bedrock level/db'
+[2025-08-12 01:28:32:119 INFO] [SERVER] Pack Stack - None
+[2025-08-12 01:28:41:137 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-08-12 01:28:41:138 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2025-08-12 01:28:41:369 INFO] Server started.
+[2025-08-12 01:28:41:372 INFO] ================ TELEMETRY MESSAGE ===================
+[2025-08-12 01:28:41:373 INFO] Server Telemetry is currently not enabled. 
+[2025-08-12 01:28:41:373 INFO] Enabling this telemetry helps us improve the game.
+[2025-08-12 01:28:41:373 INFO] 
+[2025-08-12 01:28:41:373 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-08-12 01:28:41:373 INFO] to the server.properties file in the handheld/src-server directory
+[2025-08-12 01:28:41:373 INFO] ======================================================
+[2025-08-12 01:29:27:903 INFO] Player connected: Aiden8749, xuid: 2535436386443820
+[2025-08-12 01:29:38:962 INFO] Player Spawned: Aiden8749 xuid: 2535436386443820, pfid: 800e2855113fe597
+[2025-08-12 01:30:52:484 INFO] Player disconnected: Aiden8749, xuid: 2535436386443820, pfid: 800e2855113fe597
+nohup: ignoring input
+NO LOG FILE! - setting up server logging...
+[2025-08-11 21:35:32:384 INFO] Starting Server
+[2025-08-11 21:35:32:385 INFO] Version: 1.21.100.7
+[2025-08-11 21:35:32:385 INFO] Session ID: 6ef35446-9b7b-483d-af12-4955bb787f18
+[2025-08-11 21:35:32:385 INFO] Build ID: 35767061
+[2025-08-11 21:35:32:385 INFO] Branch: hotfix_21_u10
+[2025-08-11 21:35:32:385 INFO] Commit ID: 98aaa32f94e0440ba67be562ccf07fefefbac0d9
+[2025-08-11 21:35:32:385 INFO] Configuration: Publish
+[2025-08-11 21:35:32:394 INFO] Level Name: Bedrock level
+[2025-08-11 21:35:32:405 INFO] No CDN config file found for dedicated server
+[2025-08-11 21:35:32:405 INFO] Game mode: 0 Survival
+[2025-08-11 21:35:32:405 INFO] Difficulty: 2 NORMAL
+[2025-08-11 21:35:32:421 INFO] Content logging to console is enabled.
+[2025-08-11 21:35:33:440 INFO] Opening level 'worlds/Bedrock level/db'
+[2025-08-11 21:35:35:501 INFO] [SERVER] Pack Stack - None
+[2025-08-11 21:35:44:295 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-08-11 21:35:44:295 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2025-08-11 21:35:44:518 INFO] Server started.
+[2025-08-11 21:35:44:521 INFO] ================ TELEMETRY MESSAGE ===================
+[2025-08-11 21:35:44:521 INFO] Server Telemetry is currently not enabled. 
+[2025-08-11 21:35:44:522 INFO] Enabling this telemetry helps us improve the game.
+[2025-08-11 21:35:44:522 INFO] 
+[2025-08-11 21:35:44:522 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-08-11 21:35:44:523 INFO] to the server.properties file in the handheld/src-server directory
+[2025-08-11 21:35:44:523 INFO] ======================================================
