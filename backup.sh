@@ -21,8 +21,9 @@ if [ $COMMIT_COUNT -gt $MAX_COMMITS ]; then
 
     git branch -D main
     git branch -m temp-branch main
-    git push -f origin main
 fi
+
+git push -f origin main
 
 echo "Backup completed. Total commits: $(git rev-list --count HEAD)"
 
