@@ -48,3 +48,49 @@ NO LOG FILE! - setting up server logging...
 [2025-08-11 21:35:44:522 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
 [2025-08-11 21:35:44:523 INFO] to the server.properties file in the handheld/src-server directory
 [2025-08-11 21:35:44:523 INFO] ======================================================
+nohup: failed to run command './bedrock_server': No such file or directory
+nohup: failed to run command './bedrock_server': No such file or directory
+NO LOG FILE! - setting up server logging...
+[2025-08-12 04:45:49:534 INFO] Starting Server
+[2025-08-12 04:45:49:534 INFO] Version: 1.21.100.7
+[2025-08-12 04:45:49:535 INFO] Session ID: 6d82adfa-63b9-4690-a4aa-4d2dc869f470
+[2025-08-12 04:45:49:535 INFO] Build ID: 35767061
+[2025-08-12 04:45:49:535 INFO] Branch: hotfix_21_u10
+[2025-08-12 04:45:49:535 INFO] Commit ID: 98aaa32f94e0440ba67be562ccf07fefefbac0d9
+[2025-08-12 04:45:49:535 INFO] Configuration: Publish
+[2025-08-12 04:45:49:544 INFO] Level Name: Bedrock level
+[2025-08-12 04:45:49:555 INFO] No CDN config file found for dedicated server
+[2025-08-12 04:45:49:555 INFO] Game mode: 0 Survival
+[2025-08-12 04:45:49:556 INFO] Difficulty: 2 NORMAL
+[2025-08-12 04:45:49:571 INFO] Content logging to console is enabled.
+[2025-08-12 04:45:49:673 ERROR] Failed to load Vanilla Resource Pack, is the vanilla pack missing from the loaded world?
+Quit correctly
+NO LOG FILE! - setting up server logging...
+[2025-08-12 04:51:45:607 INFO] Starting Server
+[2025-08-12 04:51:45:607 INFO] Version: 1.21.100.7
+[2025-08-12 04:51:45:607 INFO] Session ID: fe54b8df-fa77-4f60-890d-79b8438761c5
+[2025-08-12 04:51:45:608 INFO] Build ID: 35767061
+[2025-08-12 04:51:45:608 INFO] Branch: hotfix_21_u10
+[2025-08-12 04:51:45:608 INFO] Commit ID: 98aaa32f94e0440ba67be562ccf07fefefbac0d9
+[2025-08-12 04:51:45:608 INFO] Configuration: Publish
+[2025-08-12 04:51:45:617 INFO] Level Name: Bedrock level
+[2025-08-12 04:51:45:628 INFO] No CDN config file found for dedicated server
+[2025-08-12 04:51:45:628 INFO] Game mode: 0 Survival
+[2025-08-12 04:51:45:629 INFO] Difficulty: 2 NORMAL
+[2025-08-12 04:51:45:645 INFO] Content logging to console is enabled.
+[2025-08-12 04:51:46:686 INFO] Opening level 'worlds/Bedrock level/db'
+[2025-08-12 04:51:48:767 INFO] [SERVER] Pack Stack - None
+[2025-08-12 04:51:57:721 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-08-12 04:51:57:722 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2025-08-12 04:51:57:948 INFO] Server started.
+[2025-08-12 04:51:57:952 INFO] ================ TELEMETRY MESSAGE ===================
+[2025-08-12 04:51:57:952 INFO] Server Telemetry is currently not enabled. 
+[2025-08-12 04:51:57:952 INFO] Enabling this telemetry helps us improve the game.
+[2025-08-12 04:51:57:953 INFO] 
+[2025-08-12 04:51:57:953 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-08-12 04:51:57:953 INFO] to the server.properties file in the handheld/src-server directory
+[2025-08-12 04:51:57:953 INFO] ======================================================
+[2025-08-12 04:52:40:127 INFO] Player connected: Aiden8749, xuid: 2535436386443820
+[2025-08-12 04:52:51:118 INFO] Player Spawned: Aiden8749 xuid: 2535436386443820, pfid: 800e2855113fe597
+[2025-08-12 04:53:52:579 INFO] Player disconnected: Aiden8749, xuid: 2535436386443820, pfid: 800e2855113fe597
+[2025-08-12 04:58:45:861 INFO] Running AutoCompaction...
