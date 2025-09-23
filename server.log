@@ -4711,3 +4711,28 @@ NO LOG FILE! - setting up server logging...
 [2025-09-21 05:00:15:593 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
 [2025-09-21 05:00:15:593 INFO] to the server.properties file in the handheld/src-server directory
 [2025-09-21 05:00:15:593 INFO] ======================================================
+NO LOG FILE! - setting up server logging...
+[2025-09-23 05:00:02:994 INFO] Starting Server
+[2025-09-23 05:00:02:994 INFO] Version: 1.21.100.7
+[2025-09-23 05:00:02:995 INFO] Session ID: 2f5104ed-5034-4e31-9694-6082f07c6c86
+[2025-09-23 05:00:02:995 INFO] Build ID: 35767061
+[2025-09-23 05:00:02:995 INFO] Branch: hotfix_21_u10
+[2025-09-23 05:00:02:995 INFO] Commit ID: 98aaa32f94e0440ba67be562ccf07fefefbac0d9
+[2025-09-23 05:00:02:995 INFO] Configuration: Publish
+[2025-09-23 05:00:03:004 INFO] Level Name: Bedrock level
+[2025-09-23 05:00:03:016 INFO] No CDN config file found for dedicated server
+[2025-09-23 05:00:03:017 INFO] Game mode: 0 Survival
+[2025-09-23 05:00:03:017 INFO] Difficulty: 2 NORMAL
+[2025-09-23 05:00:03:033 INFO] Content logging to console is enabled.
+[2025-09-23 05:00:04:069 INFO] Opening level 'worlds/Bedrock level/db'
+[2025-09-23 05:00:06:104 INFO] [SERVER] Pack Stack - None
+[2025-09-23 05:00:14:956 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-09-23 05:00:14:956 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2025-09-23 05:00:15:181 INFO] Server started.
+[2025-09-23 05:00:15:184 INFO] ================ TELEMETRY MESSAGE ===================
+[2025-09-23 05:00:15:184 INFO] Server Telemetry is currently not enabled. 
+[2025-09-23 05:00:15:184 INFO] Enabling this telemetry helps us improve the game.
+[2025-09-23 05:00:15:184 INFO] 
+[2025-09-23 05:00:15:185 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-09-23 05:00:15:185 INFO] to the server.properties file in the handheld/src-server directory
+[2025-09-23 05:00:15:186 INFO] ======================================================
